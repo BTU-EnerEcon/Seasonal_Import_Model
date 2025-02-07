@@ -1,4 +1,4 @@
-# Seasonal_Import_Model
+# EM.Seasonal_Import
 The model optimizes hydrogen supply costs to Europe, analyzing cavern costs and seasonal flexibility across six scenarios.
 
 # Description
